@@ -1,3 +1,13 @@
+.titlelink {
+    text-decoration: none;
+    color: inherit;
+    border-bottom: 5px solid #ddc044;
+    background-color: black;
+}
+.titlelink:hover {
+    background-color: #ddc044;
+    color: white;
+}
 #header {
     background-color: #3bc754;
     padding: 70px 60px;
