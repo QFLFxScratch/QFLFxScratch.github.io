@@ -10,8 +10,8 @@
         <mask id="mask-2" fill="white">
             <use xlink:href="#path-1"/>
         </mask>
-        <use id="turbo-bolt" fill="#FF8C1A" fill-rule="nonzero" xlink:href="#path-1"/>
-        <g id="Color/1_Yellow" mask="url(#mask-2)" fill="#FFBF00">
+        <use id="turbo-bolt" fill="#ddc044" fill-rule="nonzero" xlink:href="#path-1"/>
+        <g id="Color/1_Yellow" mask="url(#mask-2)" fill="#ddc044">
             <g id="Color/Yellow/1_Yellow">
                 <rect id="Color" x="0" y="0" width="20" height="20"/>
             </g>
