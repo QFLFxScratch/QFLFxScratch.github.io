@@ -56,3 +56,7 @@ body {
         transform: rotateX(0);
     }
 }
+#container {
+    height: 370px;
+    background-color: #ddc044;
+}
