@@ -8,10 +8,13 @@
     color: inherit;
     border-bottom: 5px solid #ddc044;
     background-color: black;
+    transition: 0.3s;
 }
 .titlelink:hover {
     background-color: #0040ff;
     color: black;
+    border-bottom: 5px solid black;
+    transition: 0.5s;
 }
 #header {
     background-color: #3bc754;
