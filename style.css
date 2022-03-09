@@ -1,5 +1,54 @@
+#footer {
+height:100%;
+background-color: black;
+width: 100%;
+float: left;
+}
+.button-68 {   
+    appearance: none;   
+    backface-visibility: hidden;   
+    background-color: black;   
+    border-radius: 8px;   
+    border-style: none;   
+    box-shadow: rgba(39, 174, 96, .15) 0 4px 9px;   
+    box-sizing: border-box;   
+    color: #fff;   
+    cursor: pointer;   
+    display: inline-block;   
+    font-family: Inter,-apple-system,system-ui,"Segoe UI",Helvetica,Arial,sans-serif;   
+    font-size: 16px;   
+    font-weight: 600;   
+    letter-spacing: normal;   
+    line-height: 1.5;   
+    outline: none;   
+    overflow: hidden;   
+    padding: 13px 20px;   
+    position: relative;   
+    text-align: center;   
+    text-decoration: none;   
+    transform: translate3d(0, 0, 0);   
+    transition: 0.5s;  
+    user-select: none;   
+    -webkit-user-select: none;   
+    touch-action: manipulation;   
+    vertical-align: top;   
+    white-space: nowrap; 
+    animation: start 0.75s;
+}  
+.button-68:hover {   
+    background-color: #0040ff;   
+    opacity: 1;   
+    transform: translateY(0);
+    transition: 0.5s;
+}  
+.button-68:active {   
+    transform: translateY(2px);   
+    transition-duration: .35s; 
+}  
+.button-68:hover {   
+    box-shadow: rgba(39, 174, 96, .2) 0 6px 12px; }
 .text {
-    margin: 0px 60px 70px 60px;
+    margin: 0px 60px 20px 60px;
     font-family: 'TeXGyreAdventor-Regular';
     font-size: 17px;
     animation: start 0.75s;
