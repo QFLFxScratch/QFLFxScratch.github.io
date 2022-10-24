@@ -1,8 +1,8 @@
 #footer {
-height:100%;
-background-color: black;
+background-color: white;
 width: 100%;
 float: left;
+border-top: 1px solid #e1e1e1;
 }
 .button-68 {   
     appearance: none;   
@@ -10,7 +10,7 @@ float: left;
     background-color: black;   
     border-radius: 8px;   
     border-style: none;   
-    box-shadow: rgba(39, 174, 96, .15) 0 4px 9px;   
+    /*! box-shadow: rgba(39, 174, 96, .15) 0 4px 9px; */   
     box-sizing: border-box;   
     color: #fff;   
     cursor: pointer;   
@@ -36,7 +36,7 @@ float: left;
     animation: start 0.75s;
 }  
 .button-68:hover {   
-    background-color: #0040ff;   
+    background-color: #537eff;   
     opacity: 1;   
     transform: translateY(0);
     transition: 0.5s;
@@ -46,7 +46,7 @@ float: left;
     transition-duration: .35s; 
 }  
 .button-68:hover {   
-    box-shadow: rgba(39, 174, 96, .2) 0 6px 12px; }
+    /*! box-shadow: rgba(39, 174, 96, .2) 0 6px 12px; */ }
 .text {
     margin: 0px 60px 20px 60px;
     font-family: 'TeXGyreAdventor-Regular';
@@ -61,7 +61,7 @@ float: left;
     transition: 0.5s;
 }
 .titlelink:hover {
-    background-color: #0040ff;
+    background-color: #537eff;
     color: black;
     border-bottom: 5px solid black;
     transition: 0.5s;
